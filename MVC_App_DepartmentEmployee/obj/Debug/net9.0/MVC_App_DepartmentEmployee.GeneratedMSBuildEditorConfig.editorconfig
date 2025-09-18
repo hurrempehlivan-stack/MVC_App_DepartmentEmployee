@@ -17,57 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_App_DepartmentEmployee
 build_property.RootNamespace = MVC_App_DepartmentEmployee
-build_property.ProjectDir = /Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/
+build_property.ProjectDir = /Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee
+build_property.MSBuildProjectDirectory = /Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Create.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Details.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Edit.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Index.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Home/Index.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Home/Privacy.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Shared/Error.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/_ViewImports.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/_ViewStart.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hurrempehlivan/RiderProjects/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Shared/_Layout.cshtml]
+[/Volumes/Furkan/MVC_App_DepartmentEmployee/MVC_App_DepartmentEmployee/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-su2rf4hwch
