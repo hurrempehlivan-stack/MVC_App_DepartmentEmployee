@@ -1,0 +1,28 @@
+@using MVC_App_DepartmentEmployee.core.entities
+@model MVC_App_DepartmentEmployee.core.entities.Department
+
+<div class="container">
+    <div class="card">
+        <h2>Yeni Departman ekle</h2>
+        <form asp-action="Create">
+
+            <div asp-validation-summary="ModelOnly"></div>
+
+            <div class="form-group">
+                <label asp-for="DepartmentName" class="form-label"></label>
+                <input asp-for="DepartmentName" class="form-control" />
+                <span asp-validation-for="DepartmentName"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartmentDescription" class="form-label"></label>
+                <input asp-for="DepartmentDescription" class="form-control" />
+                <span asp-validation-for="DepartmentDescription"></span>
+            </div>
+			
+            <div class="form-group">
+                <input type="submit" class="btn" value="Kaydet" />
+                <a asp-action="Index" class="btn">Listeye geri dön</a>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+@using MVC_App_DepartmentEmployee.core.entities
+@model Department
+
+<div class="container">
+    <div class="card">
+        <h2>Departman Detayları</h2>
+        <hr />
+        <input type="hidden" asp-for="DepartmentId" />
+        
+        <div>
+            <dl>
+                <dt>Departman Adı</dt>
+                <dd>@Model.DepartmentName</dd>
+            </dl>
+            <dl>
+                <dt>Departman Açıklaması</dt>
+                <dd>@Model.DepartmentDescription</dd>
+            </dl>
+        </div>
+        <div class="action-buttons">
+            <a asp-action="Edit" asp-route-id="@Model.DepartmentId" class="btn">Düzenle</a>
+            <a asp-action="Index" class="btn">Listeye geri dön</a>
+        </div>
+    </div>
+</div>
